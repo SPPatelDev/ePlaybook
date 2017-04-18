@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ePayBook</title>
+    <meta charset="utf-8" />
+
+    <!-- 3rd party -->
+    <script src="Scripts/angular.min.js"></script>
+    <script src="Scripts/angular-ui-router.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular-sanitize.js"></script>
+    <script src="Scripts/underscore.js"></script>
+    <script data-require="d3@*" data-semver="3.3.11" src="//cdnjs.cloudflare.com/ajax/libs/d3/3.3.11/d3.js"></script>
+    <script src="Scripts/angular-charts.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.4.0/ui-bootstrap-tpls.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/angular.ng-notify/0.6.0/ng-notify.min.js"></script>
+    <!--Custom JS-->
+    <script src="app/app.js"></script>
+    <script src="app/app.router.js"></script>
+
+    <!--Custom Filter-->
+    <script src="app/filter/addressFilter.js"></script>
+    <script src="app/common/enums.js"></script>
+    <script src="app/common/enumFilter.js"></script>
+    <script src="app/filter/currancyconvertoer.js"></script>
+    <!--Custom Services-->
+    <script src="app/Services/baseService.js"></script>
+    <script src="app/Services/targetService.js"></script>
+
+    <script src="app/Controllers/listtargetsController.js"></script>
+    <script src="app/Controllers/targetController.js"></script>
+    <script src="app/Controllers/performanceController.js"></script>
+    <script src="app/Controllers/overallPerformanceController.js"></script>
+    <!-- Bootstrap -->
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="Stylesheet" type="text/css" href="//cdn.jsdelivr.net/angular.ng-notify/0.6.0/ng-notify.min.css" />
+
+    <!--Custom CSS -->
+    <link href="app/Content/css/app.css" rel="stylesheet" />
+
+
+</head>
+<body>
+    <div ng-app="ePlayBook">
+        <div ng-include src="'app/templates/navbar.html'"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div ui-view style="margin-top:30px;"></div>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+</body>
+</html>

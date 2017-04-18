@@ -1,0 +1,114 @@
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\csc.exe
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\System.Collections.Immutable.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\vbc.exe
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe.config
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\ePlayBook.dll.config
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\ePlayBook.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\ePlayBook.pdb
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\obj\Debug\ePlayBook.csprojResolveAssemblyReference.cache
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\obj\Debug\ePlayBook.dll
+c:\users\patels38\documents\visual studio 2015\Projects\ePlayBook\ePlayBook\obj\Debug\ePlayBook.pdb
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\csc.exe
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\vbc.exe
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\ePlayBook.dll.config
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\ePlayBook.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\ePlayBook.pdb
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\obj\Debug\ePlayBook.csprojResolveAssemblyReference.cache
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\obj\Debug\ePlayBook.dll
+C:\Users\monap\Source\Repos\ePlayBook\ePlayBook\obj\Debug\ePlayBook.pdb
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\csc.exe
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\vbc.exe
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\ePlayBook.dll.config
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\ePlayBook.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\ePlayBook.pdb
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\obj\Debug\ePlayBook.csprojResolveAssemblyReference.cache
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\obj\Debug\ePlayBook.dll
+C:\Users\patels38\Source\Repos\ePlayBook\ePlayBook\obj\Debug\ePlayBook.pdb
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\csc.exe
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\vbc.exe
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\ePlayBook.dll.config
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\ePlayBook.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\ePlayBook.pdb
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\obj\Debug\ePlayBook.dll
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\obj\Debug\ePlayBook.pdb
+C:\Users\patels38\Desktop\ePlayBook\ePlayBook\obj\Debug\ePlayBook.csprojResolveAssemblyReference.cache
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\csc.exe
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\vbc.exe
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\ePlayBook.dll.config
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\ePlayBook.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\ePlayBook.pdb
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\obj\Debug\ePlayBook.csprojResolveAssemblyReference.cache
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\obj\Debug\ePlayBook.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\obj\Debug\ePlayBook.pdb
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\Newtonsoft.Json.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\Swashbuckle.Core.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.Net.Http.Formatting.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.Web.Http.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.Web.Http.WebHost.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\WebActivatorEx.dll
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\Newtonsoft.Json.xml
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.Net.Http.Formatting.xml
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.Web.Http.xml
+C:\Users\patels38\Documents\Sunil\Visa 2016\ePlayBook\ePlayBook\bin\System.Web.Http.WebHost.xml

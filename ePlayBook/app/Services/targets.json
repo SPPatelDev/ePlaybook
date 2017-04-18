@@ -1,0 +1,256 @@
+﻿[
+  {
+    "id": 1,
+    "status": 1,
+    "companyInfo": {
+      "compnayName": "Acme Corp",
+      "address": {
+        "address1": "32 Park Ave",
+        "address2": "",
+        "city": "NYC",
+        "state": "NY",
+        "country": "USA",
+        "zip": "10029"
+      }
+    },
+    "keyContacts": [
+      {
+        "firstName": "Rhona",
+        "lastName": "Malock",
+        "title": "Director",
+        "phone": "111-111-1111",
+        "emailAddress": "rmalock@acme.com"
+      },
+      {
+        "firstName": "Fernanda",
+        "lastName": "Vaz",
+        "title": "CTO",
+        "phone": "111-111-1111",
+        "emailAddress": "fvaz@acme.com"
+      }
+    ],
+    "financial": [
+      {
+        "year": 2016,
+        "q1": {
+          "grossRevenue": 100000,
+          "totalExpenses": 50000
+
+        },
+        "q2": {
+          "grossRevenue": 600000,
+          "totalExpenses": 45000
+        },
+        "q3": {
+          "grossRevenue": 400000,
+          "totalExpenses": 20000
+        },
+        "q4": {
+          "grossRevenue": 60000,
+          "totalExpenses": 30000
+        }
+      },
+      {
+        "year": 2015,
+        "q1": {
+          "grossRevenue": 454533,
+          "totalExpenses": 340000
+
+        },
+        "q2": {
+          "grossRevenue": 454543,
+          "totalExpenses": 45000
+        },
+        "q3": {
+          "grossRevenue": 454533,
+          "totalExpenses": 200000
+        },
+        "q4": {
+          "grossRevenue": 50000,
+          "totalExpenses": 30000
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "status": 3,
+    "companyInfo": {
+      "compnayName": "Globex Corp",
+      "address": {
+        "address1": "67 Limberg Rd",
+        "address2": "",
+        "city": "Waldwick",
+        "state": "NJ",
+        "country": "USA",
+        "zip": "07463"
+      }
+    },
+    "keyContacts": [
+      {
+        "firstName": "Roamnie",
+        "lastName": "Heff",
+        "title": "Director",
+        "phone": "111-111-1111",
+        "emailAddress": "eheff@globex.com"
+      },
+      {
+        "firstName": "Robby",
+        "lastName": "Setton",
+        "title": "CTO",
+        "phone": "111-111-1111",
+        "emailAddress": "rsetton@globex.com"
+      }
+    ],
+    "financial": [
+      {
+        "year": 2016,
+        "q1": {
+          "grossRevenue": 3434543,
+          "totalExpenses": 43434
+
+        },
+        "q2": {
+          "grossRevenue": 600000,
+          "totalExpenses": 432323
+        },
+        "q3": {
+          "grossRevenue": 544545,
+          "totalExpenses": 45454
+        },
+        "q4": {
+          "grossRevenue": 4546576,
+          "totalExpenses": 6565
+        }
+      },
+      {
+        "year": 2015,
+        "q1": {
+          "grossRevenue": 454535,
+          "totalExpenses": 340000
+
+        },
+        "q2": {
+          "grossRevenue": 565643,
+          "totalExpenses": 45000
+        },
+        "q3": {
+          "grossRevenue": 656544,
+          "totalExpenses": 200000
+        },
+        "q4": {
+          "grossRevenue": 50000,
+          "totalExpenses": 30000
+        }
+      }
+    ]
+
+  },
+  {
+    "id": 3,
+    "status": 4,
+    "companyInfo": {
+      "compnayName": "Soylent Corp",
+      "address": {
+        "address1": "2264 Sundown Lane",
+        "address2": "Suit 304",
+        "city": "Austin",
+        "state": "Tx",
+        "country": "USA",
+        "zip": "78749"
+      }
+    },
+    "keyContacts": [
+      {
+        "firstName": "Camilio",
+        "lastName": "Malock",
+        "title": "Director",
+        "phone": "111-111-1111",
+        "emailAddress": "cmalock@soylent.com"
+      },
+      {
+        "firstName": "Elenor",
+        "lastName": "Lex",
+        "title": "CTO",
+        "phone": "111-111-1111",
+        "emailAddress": "elex@soylent.com"
+      }
+    ],
+    "financial": [
+      {
+        "year": 2016,
+        "q1": {
+          "grossRevenue": 5464654,
+          "totalExpenses": 540000
+
+        },
+        "q2": {
+          "grossRevenue": 734734,
+          "totalExpenses": 84585
+        },
+        "q3": {
+          "grossRevenue": 854945,
+          "totalExpenses": 200000
+        },
+        "q4": {
+          "grossRevenue": 454545,
+          "totalExpenses": 47547
+        }
+      }
+    ]
+
+  },
+  {
+    "id": 4,
+    "status": 2,
+    "companyInfo": {
+      "compnayName": "Hooli",
+      "address": {
+        "address1": "1224 Northview Dr",
+        "address2": "",
+        "city": "Crestview",
+        "state": "FL",
+        "country": "USA",
+        "zip": "32536"
+      }
+    },
+    "keyContacts": [
+      {
+        "firstName": "Ivy",
+        "lastName": "Napier",
+        "title": "Director",
+        "phone": "111-111-1111",
+        "emailAddress": "inapier@hooli.com"
+      },
+      {
+        "firstName": "Janie",
+        "lastName": "Toohey",
+        "title": "CTO",
+        "phone": "111-111-1111",
+        "emailAddress": "jtoohey@hooli.com"
+      }
+    ],
+    "financial": [
+      {
+        "year": 2016,
+        "q1": {
+          "grossRevenue": 6545345,
+          "totalExpenses": 4353443
+
+        },
+        "q2": {
+          "grossRevenue": 4345435,
+          "totalExpenses": 54454
+        },
+        "q3": {
+          "grossRevenue": 545455,
+          "totalExpenses": 45445
+        },
+        "q4": {
+          "grossRevenue": 4545345,
+          "totalExpenses": 345435
+        }
+      }
+    ]
+  }
+]

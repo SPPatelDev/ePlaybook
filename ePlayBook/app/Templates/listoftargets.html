@@ -1,0 +1,48 @@
+﻿<div class="col-lg-2 col-lg-offset-10" style="margin-bottom:10px;">
+    <a ui-sref="target" class="btn btn-primary btn-md btn-block">Add Target</a>
+</div>
+<div class="col-lg-12" style="border: 1px solid #ddd;">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <td></td>
+                <td>Status</td>
+                <td>Company Name</td>
+                <td>Company Address</td>
+                <td>Key Contacts</td>
+                <td>Financial Performance</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="target in vm.targetData">
+                <td><a ui-sref="target({id:target.id})"><i class="glyphicon glyphicon-pencil"></i></a>&nbsp;<i class="glyphicon glyphicon-trash" ng-click="vm.remove(target.id)"></i></td>
+                <td>{{target.status | statusValueToName}}</td>
+                <td>{{target.companyInfo.compnayName}}</td>
+                <td>{{target.companyInfo.address | address}}</td>
+                <td>
+                    <div ng-repeat="contact in target.keyContacts" class="card card-contacts">
+                        <div style="color:#369; font-weight:bold;">
+                            {{contact.firstName}} {{contact.lastName}}
+                        </div>
+                        <div>
+                            {{contact.title}}
+                        </div>
+                        <div>
+                            <a href="mailto:{{contact.emailAddress}}">{{contact.emailAddress}}</a>
+                        </div>
+                        <div>
+                            {{ contact.phone}}
+                        </div>
+                    </div>
+                </td>
+                <td>
+                    <a s ui-sref="performance({id:target.id})">View Performance</a>
+                </td>
+            </tr>
+
+        </tbody>
+    </table>
+
+</div>
+
+

@@ -1,0 +1,140 @@
+﻿<div>
+    <form name="targetForm" role="form">
+        <div class="col-lg-12">
+            <div>
+                <strong> Company Name: </strong>
+            </div>
+            <div class="col-lg-6">
+                <input type="text" class="form-control" name="companyName" ng-required="true" ng-model="vm.target.companyInfo.compnayName" />
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div>
+                <strong>  Company Address: </strong>
+            </div>
+            <div class="col-lg-6"><input type="text" class="form-control" placeholder="Address Line 1" ng-model="vm.target.companyInfo.address.address1" /></div>
+            <div class="col-lg-6">
+                <input type="text" class="form-control" placeholder="Address Line 2" ng-model="vm.target.companyInfo.address.address2" />
+            </div>
+            <div class="col-lg-3">
+                <input type="text" class="form-control" placeholder="City" ng-model="vm.target.companyInfo.address.city" />
+            </div>
+            <div class="col-lg-3">
+                <input type="text" class="form-control" placeholder="State" ng-model="vm.target.companyInfo.address.state" />
+            </div>
+            <div class="col-lg-3">
+                <input type="text" class="form-control" placeholder="Country" ng-model="vm.target.companyInfo.address.country" />
+            </div>
+            <div class="col-lg-3">
+                <input type="text" class="form-control" placeholder="Zip" ng-model="vm.target.companyInfo.address.zip" />
+            </div>
+        </div>
+        <div class="col-lg-12">
+            <div><strong> Status:</strong></div>
+            <div class="col-lg-3 ">
+                <select ng-model="vm.selectedStatus" class="form-control" ng-options="item as item.name for item in  vm.statusList"></select>
+            </div>
+        </div>
+
+        <div class="col-lg-12 panel panel-default pad-bot-5" >
+            <div>
+                <strong>
+                    Key Contact Information:
+                </strong>
+                <span class="error" ng-show="vm.target.keyContacts==0">At-least one key contact record needed.</span>
+                <div class="btn btn-sm btn-primary" ng-click="vm.addKeyContact();">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    Add
+                </div>
+            </div>
+
+            <div ng-repeat="contact in vm.target.keyContacts" class="col-lg-12">
+                <div class="col-lg-2">
+                    First Name : <input class="form-control" type="text" ng-required="true" ng-model="contact.firstName" />
+                </div>
+                <div class="col-lg-2">
+                    Last Name : <input class="form-control" type="text" ng-required="true" ng-model="contact.lastName" />
+                </div>
+                <div class="col-lg-2">
+                    Title : <input class="form-control" type="text" ng-model="contact.title" />
+                </div>
+                <div class="col-lg-2">
+                    Email: <input class="form-control" type="email" ng-required="true" ng-model="contact.emailAddress" />
+                </div>
+                <div class="col-lg-2">
+                    Phone : <input class="form-control" type="text" ng-model="contact.phone" placeholder="xxx-xxx-xxxx" ng-pattern="/^(?:\(\d{3}\)|\d{3})[- ]?\d{3}[- ]?\d{4}$/" />
+                </div>
+                <div class="col-lg-2">
+                    <i ng-click="vm.removeKeyContact(contact);" class="glyphicon glyphicon-remove"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-12 panel panel-default pad-bot-5">
+            <div>
+                <strong>
+                    Finacial Persormance Information:
+                </strong>
+                <span class="error" ng-show="vm.target.financial.length==0">At-least one financial record needed.</span>
+                <div class="btn btn-sm btn-primary" ng-disabled="vm.target.financial.length==2" ng-click="vm.addfinancial();">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    Add
+                </div>
+            </div>
+
+            <div ng-repeat="fin in vm.target.financial" class="col-lg-12">             
+                               
+                <div class="col-lg-2 text-left">
+                    <div class="col-lg-12 form-control-text">
+                        Year : {{fin.year}}
+                    </div>
+                    <div class="col-lg-12 form-control-text">
+                        Gross Revenue
+                    </div>
+                    <div class="col-lg-12">
+                        Total Expenses
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="col-lg-3">
+                        Quarter 1:
+                    </div>
+                    <div class="col-lg-3">
+                        Quarter 2:
+                    </div>
+                    <div class="col-lg-3">
+                        Quarter 3:
+                    </div>
+                    <div class="col-lg-3">
+                        Quarter 4:
+                    </div>
+                    <div class="col-lg-3">
+                        <input type="number" class="form-control" min="1" placeholder="Gross Revenue" ng-required="true" ng-model="fin.q1.grossRevenue" /><input type="number" class="form-control" placeholder="Total Expense" min="1" ng-required="true" ng-model="fin.q1.totalExpenses" />
+                    </div>
+                    <div class="col-lg-3">
+                        <input type="number" class="form-control" min="1" placeholder="Gross Revenue" ng-required="true" ng-model="fin.q2.grossRevenue" /><input type="number" class="form-control" placeholder="Total Expense" min="1" ng-required="true" ng-model="fin.q2.totalExpenses" />
+                    </div>
+                    <div class="col-lg-3">
+                        <input type="number" class="form-control" min="1" placeholder="Gross Revenue" ng-required="true" ng-model="fin.q3.grossRevenue" /><input type="number" class="form-control" placeholder="Total Expense" min="1" ng-required="true" ng-model="fin.q3.totalExpenses" />
+                    </div>
+                    <div class="col-lg-3">
+                        <input type="number" class="form-control" min="1" placeholder="Gross Revenue" ng-required="true" ng-model="fin.q4.grossRevenue" /><input type="number" class="form-control" placeholder="Total Expense" min="1" ng-required="true" ng-model="fin.q4.totalExpenses" />
+                    </div>
+                </div>
+                <div class="col-lg-2">
+                    <i ng-click="vm.removeFinancial(fin);" class="glyphicon glyphicon-remove"></i>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-2" style="margin-bottom:10px;">
+            <button type="submit" class="btn btn-sm btn-primary btn-block" ng-click="vm.save();">
+                Save
+            </button>
+        </div>
+        <div class="col-lg-2" style="margin-bottom:10px;">
+            <button type="submit" class="btn btn-sm btn-default btn-block" ng-click="vm.cancel();">
+                Cancel
+            </button>
+        </div>
+    </form>
+</div>

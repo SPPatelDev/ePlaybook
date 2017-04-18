@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ePlaybook" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\patels38\\Documents\\Sunil\\Visa\ 2016\\ePlayBook\\ePlayBook\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\patels38\\Documents\\Sunil\\Visa\ 2016\\ePlayBook\\ePlayBook\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
